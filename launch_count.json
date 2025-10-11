@@ -1,0 +1,7 @@
+{
+  "allowedMachines": {
+    "DESKTOP-ABC123": { "maxLaunches": 10 },
+   
+  },
+  "defaultMaxLaunches": 0
+}
