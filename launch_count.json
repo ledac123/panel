@@ -1,7 +1,6 @@
 {
-  "defaultMaxLaunches": 1,
   "allowedMachines": {
-    "WIN-D61ORJ8ET9B": { "maxLaunches": 99999 },
-    "b6e3f4ac19b1bd54b619cfdc1189d2fba62bd261f8a9df8a058937e9abcd219a": { "maxLaunches": 99999 }
+    "WIN-D61ORJ8ET9B": {},
+    "DESKTOP-ABC123": {}
   }
 }
